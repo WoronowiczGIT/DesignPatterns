@@ -2,22 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="859da33e-3fdb-49d1-9586-3eb961b2bf9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/BasicNominal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Nominal10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Nominal100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Nominal20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/GlobalShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/InternetShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/LocalShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/PurchaseRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/About" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/CorpoTree/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/CorpoTree/EmployeeInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/CorpoTree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/CorpoTree/Menager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/DirectoryTree/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/DirectoryTree/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/DirectoryTree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/DirectoryTree/SystemFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/DesignPatterns.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/DesignPatterns.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,91 +24,81 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Kompozyt/DirectoryTree/SystemFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="66">
+              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="11" selection-end-column="34" />
+              <folding>
+                <element signature="e#160#161#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/BasicNominal.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Kompozyt/DirectoryTree/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="308">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Kompozyt/CorpoTree/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="264">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/PurchaseRequest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Kompozyt/CorpoTree/EmployeeInterface.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Kompozyt/CorpoTree/Developer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Kompozyt/CorpoTree/Menager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/Shop.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Kompozyt/About">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/GlobalShop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/InternetShop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/LocalShop.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Request.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Nominal100.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="66">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -136,17 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/SDA/Factory/DieselCar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SDA/Factory/ElectricCar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SDA/Factory/BenzinCar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SDA/Factory/FuelType.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SDA/Factory.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SDA/Factory/Factory.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SDA/Factory/FactoryCar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SDA/Factory/Car.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SDA/Factory/testFactoryCar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SDA/Factory/FactoryCar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SDA/Singleton/Session.java" />
         <option value="$PROJECT_DIR$/src/test/java/SDA/Singleton/testSingleton.java" />
         <option value="$PROJECT_DIR$/src/main/java/SDA/Adapter/Account.java" />
         <option value="$PROJECT_DIR$/src/main/java/SDA/Adapter/AccountService.java" />
@@ -187,6 +160,17 @@
         <option value="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/PurchaseRequest.java" />
         <option value="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/Shop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/DirectoryTree/Composition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/DirectoryTree/SystemFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/DirectoryTree/File.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/DirectoryTree/Directory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/CorpoTree/DeveloperInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/DirectoryTree/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/CorpoTree/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/CorpoTree/EmployeeInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/CorpoTree/Developer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/CorpoTree/Menager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/Kompozyt/About" />
       </list>
     </option>
   </component>
@@ -251,6 +235,16 @@
               <item name="SDA" type="462c0819:PsiDirectoryNode" />
               <item name="Kompozyt" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="SDA" type="462c0819:PsiDirectoryNode" />
+              <item name="Kompozyt" type="462c0819:PsiDirectoryNode" />
+              <item name="DirectoryTree" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -260,7 +254,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554016659086" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554023599214" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -282,13 +276,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SDA.App" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SDA.Builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SDA.Kompozyt.DirectoryTree.Main" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SDA.Kompozyt.DirectoryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SDA.Kompozyt.CorpoTree.Main" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SDA.Kompozyt.CorpoTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,22 +329,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testAdapter.testAdapter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SDA.Adapter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SDA.Adapter" />
-      <option name="MAIN_CLASS_NAME" value="SDA.Adapter.testAdapter" />
-      <option name="METHOD_NAME" value="testAdapter" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="testIterator.testIterator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DesignPatterns" />
       <extension name="coverage">
@@ -341,29 +345,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testSingleton.testSession" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SDA.Singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SDA.Singleton" />
-      <option name="MAIN_CLASS_NAME" value="SDA.Singleton.testSingleton" />
-      <option name="METHOD_NAME" value="testSession" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.App" />
         <item itemvalue="JUnit.testIterator.testIterator" />
-        <item itemvalue="JUnit.testAdapter.testAdapter" />
-        <item itemvalue="JUnit.testSingleton.testSession" />
       </list>
     </recent_temporary>
   </component>
@@ -414,6 +402,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1433162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -431,7 +420,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32974428" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32974428" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -488,86 +477,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Factory/BenzinCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Factory/FuelType.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Factory/ElectricCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Factory/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Factory/DieselCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SDA/Singleton/testSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Singleton/Session.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-          <folding>
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SDA/Factory/testFactoryCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="73" lean-forward="true" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Factory/FactoryCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Adapter/Account.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -851,7 +760,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Request.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -862,6 +771,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/GlobalShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/InternetShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/LocalShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/Shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/PurchaseRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/BasicNominal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -869,45 +820,98 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/GlobalShop.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Kompozyt/DirectoryTree/Directory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="252">
+          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/InternetShop.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Kompozyt/DirectoryTree/SystemFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="66">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="11" selection-end-column="34" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/LocalShop.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Kompozyt/DirectoryTree/File.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
+        <state relative-caret-position="76">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/PurchaseRequest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Kompozyt/DirectoryTree/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Kompozyt/CorpoTree/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Kompozyt/CorpoTree/EmployeeInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/Shop.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Kompozyt/CorpoTree/Developer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        <state relative-caret-position="340">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Kompozyt/CorpoTree/Menager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Kompozyt/About">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
