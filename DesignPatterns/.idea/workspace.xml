@@ -2,108 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="859da33e-3fdb-49d1-9586-3eb961b2bf9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resources/dane.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Adapter/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Adapter/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Adapter/AccountServiceAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Builder/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Dekorator/Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Dekorator/JavaTxt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Dekorator/PHPTxt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Dekorator/RawTxt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Factory/BenzinCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Factory/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Factory/DieselCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Factory/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Factory/FactoryCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Fasada/Fasada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Iterator/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Iterator/ListWithId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Obserwator/EmailNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Obserwator/Obserwator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Obserwator/SMSNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Obserwator/TempProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Pełnomocnik/DataLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Pełnomocnik/DataLoaderImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Pełnomocnik/ProxyLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Singleton/Session.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Strategy/TaxContekst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Strategy/TaxDE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Strategy/TaxEN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Strategy/TaxPL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/Strategy/TaxStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SDA/Adapter/testAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SDA/Builder/testRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SDA/Factory/testFactoryCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SDA/Iterator/testIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SDA/Singleton/testSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HotelService/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HotelService/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HotelService/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HotelService/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HotelService/HotelService.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HotelService/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD/resources/dane.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD/src/main/java/SDA/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD/src/main/java/SDA/Library/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD/src/main/java/SDA/Library/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD/src/main/java/SDA/Library/StoredBooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD/src/main/java/SDA/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD/src/test/java/SDA/Library/testBookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD/src/test/java/SDA/TestCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD/src/test/java/SDA/TestUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD/src/test/java/SDA/UserProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD2/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD2/TDD2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD2/src/main/java/SDA/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD2/src/main/java/SDA/GenerateID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD2/src/main/java/SDA/Names.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD2/src/test/java/SDA/TestCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD2/src/test/java/SDA/TestGenerateID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD2/src/test/java/SDA/TestNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD2/src/test/java/SDA/email/TestEmailSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD2/src/test/java/SDA/user/TestUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD2/src/test/java/SDA/user/TestUserDataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD2/src/test/java/SDA/user/TestUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TDD2/src/test/java/SDA/user/TestUserValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ZadaniaStrumienie/src/main/java/SDA/Flights/.idea/Flights.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ZadaniaStrumienie/src/main/java/SDA/Flights/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ZadaniaStrumienie/src/main/java/SDA/Flights/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ZadaniaStrumienie/src/main/java/SDA/Flights/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ZadaniaStrumienie/src/main/java/SDA/Flights/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rozcwiczka/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rozcwiczka/src/com/company/BitTorrent/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rozcwiczka/src/com/company/BitTorrent/Film.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rozcwiczka/src/com/company/BitTorrent/Genre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rozcwiczka/src/com/company/BitTorrent/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rozcwiczka/src/com/company/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rozcwiczka/src/com/company/FootballMenager/Club.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rozcwiczka/src/com/company/FootballMenager/Menager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rozcwiczka/src/com/company/FootballMenager/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rozcwiczka/src/com/company/FootballMenager/Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rozcwiczka/src/com/company/FootballMenager/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rozcwiczka/src/com/company/Obowiazki.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rozcwiczka/src/com/company/PortalGem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rozcwiczka/src/com/company/sklep/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rozcwiczka/src/com/company/sklep/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rozcwiczka/src/com/company/sklep/klient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rozcwiczka/src/com/company/zad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Search by ID" beforeDir="false" afterPath="$PROJECT_DIR$/../Search by ID" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rozcwiczka/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rozcwiczka/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rozcwiczka/src/com/company/CountingSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rozcwiczka/src/com/company/CountingSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rozcwiczka/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rozcwiczka/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/BasicNominal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Nominal10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Nominal100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Nominal20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/GlobalShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/InternetShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/LocalShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/PurchaseRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/DesignPatterns.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/DesignPatterns.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -116,99 +30,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/BasicNominal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/PurchaseRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Obserwator/TempProvider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Obserwator/SMSNotification.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="76" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
-              <folding>
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#289#290#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Obserwator/EmailNotification.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="74" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
-              <folding>
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Obserwator/Obserwator.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/Shop.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Strategy/TaxDE.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/GlobalShop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-              <folding>
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="198">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Strategy/TaxEN.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/InternetShop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
-              <folding>
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="132">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/LocalShop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Request.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Nominal100.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -230,10 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/SDA/Room.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SDA/testRoom.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SDA/Factory/FueslType.java" />
         <option value="$PROJECT_DIR$/src/main/java/SDA/Factory/DieselCar.java" />
         <option value="$PROJECT_DIR$/src/main/java/SDA/Factory/ElectricCar.java" />
         <option value="$PROJECT_DIR$/src/main/java/SDA/Factory/BenzinCar.java" />
@@ -273,6 +175,18 @@
         <option value="$PROJECT_DIR$/src/main/java/SDA/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/SDA/Obserwator/EmailNotification.java" />
         <option value="$PROJECT_DIR$/src/main/java/SDA/Obserwator/SMSNotification.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/BasicNominal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Nominal10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Nominal20.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Nominal100.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Request.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/GlobalShop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/InternetShop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/LocalShop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/PurchaseRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/Shop.java" />
       </list>
     </option>
   </component>
@@ -295,8 +209,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -307,16 +219,6 @@
             <path>
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -347,37 +249,19 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="SDA" type="462c0819:PsiDirectoryNode" />
-              <item name="Obserwator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SDA" type="462c0819:PsiDirectoryNode" />
+              <item name="Kompozyt" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553426471194" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554016659086" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -398,13 +282,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SDA.App" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SDA.Builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SDA.ATM.Main" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SDA.ATM.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -423,22 +320,6 @@
       <option name="PACKAGE_NAME" value="SDA.Adapter" />
       <option name="MAIN_CLASS_NAME" value="SDA.Adapter.testAdapter" />
       <option name="METHOD_NAME" value="testAdapter" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testFactoryCar.testFactoryCar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SDA.Factory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SDA.Factory" />
-      <option name="MAIN_CLASS_NAME" value="SDA.Factory.testFactoryCar" />
-      <option name="METHOD_NAME" value="testFactoryCar" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -478,11 +359,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.App" />
         <item itemvalue="JUnit.testIterator.testIterator" />
         <item itemvalue="JUnit.testAdapter.testAdapter" />
         <item itemvalue="JUnit.testSingleton.testSession" />
-        <item itemvalue="JUnit.testFactoryCar.testFactoryCar" />
       </list>
     </recent_temporary>
   </component>
@@ -534,7 +415,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14138818" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1433162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -544,7 +425,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -607,27 +488,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Builder/Room.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#1195#1196#0" expanded="true" />
-            <element signature="e#1225#1226#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SDA/Builder/testRoom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Factory/BenzinCar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -797,9 +657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Resources/dane.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -862,28 +719,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Strategy/TaxDE.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Strategy/TaxEN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/math/BigDecimal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
@@ -920,50 +755,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Obserwator/Obserwator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Obserwator/TempProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="484">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Obserwator/EmailNotification.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="74" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Obserwator/SMSNotification.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
+        <state relative-caret-position="220">
           <caret line="11" column="76" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
           <folding>
             <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Obserwator/Obserwator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Strategy/TaxDE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Strategy/TaxEN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/Obserwator/EmailNotification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="74" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
         </state>
       </provider>
     </entry>
@@ -974,6 +824,90 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Nominal10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Nominal20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Nominal100.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/ATM/BasicNominal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/GlobalShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/InternetShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/LocalShop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/PurchaseRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SDA/ChainOfResposibility/PurchaseRequest/Shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
