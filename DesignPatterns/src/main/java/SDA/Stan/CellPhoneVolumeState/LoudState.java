@@ -5,17 +5,18 @@ public class LoudState implements VolumeState {
     @Override
     public void increaseVolume(CellPhone phone) {
         int currentVolume = phone.getVolume();
-        System.out.println("current volume: " + currentVolume);
 
-        if(phone.getMaxVolume() > currentVolume){
-            phone.setVolume(++currentVolume);
-        }else phone.setState(new MaxVolumeState());
+        if(phone.getMaxVolume()-1 <= currentVolume){
+            phone.setState(new MaxVolumeState());
+            currentVolume++;
+        }else phone.setVolume(++currentVolume);
+
+        System.out.println("current volume: " + currentVolume);
     }
 
     @Override
     public void decreaseVolume(CellPhone phone) {
         int currentVolume = phone.getVolume();
-        System.out.println("current volume: " + currentVolume);
 
         if(phone.getMinVolume() < currentVolume){
             phone.setVolume(--currentVolume);
@@ -23,6 +24,7 @@ public class LoudState implements VolumeState {
             System.out.println("Vibration mode");
             phone.setState(new VibrationState());
         }
+        System.out.println("current volume: " + currentVolume);
     }
 
 }
