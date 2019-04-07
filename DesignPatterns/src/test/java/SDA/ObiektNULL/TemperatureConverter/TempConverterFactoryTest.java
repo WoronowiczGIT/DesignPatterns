@@ -10,11 +10,11 @@ import java.util.Objects;
 
 import static org.junit.Assert.*;
 
-@RunWith(JUnitParamsRunner.class)
+
 public class TempConverterFactoryTest {
 
     @Test
-    public void try_if_Factory_returns_NullConverter_in_case_of_incorrect_dataset() {
+    public void try_if_Factory_returns_NullConverter_in_case_of_incorrect_data_set() {
         //given
         TempConverterFactory factory = new TempConverterFactory();
         //when
@@ -23,26 +23,5 @@ public class TempConverterFactoryTest {
         Assert.assertNotNull(converter);
         Assert.assertTrue(converter instanceof NullConverter);
     }
-
-    @Test
-    @Parameters(method = "converterParams")
-    public void check_if_factory_returns_right_converter(String code, TempConverter expected) {
-        //given
-        TempConverterFactory factory = new TempConverterFactory();
-        //when
-        TempConverter actuall = factory.getConverter(code);
-        //then
-
-    }
-
-
-    public Object[] converterParams() {
-        return new Object[]{
-                new Object[]{"CtoK", new CtoKTempConverter()},
-                new Object[]{"CtoF", new CtoFTempConverter()},
-                new Object[]{"error", new NullConverter()},
-        };
-    }
-
 
 }
