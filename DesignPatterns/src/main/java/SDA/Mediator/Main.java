@@ -1,5 +1,9 @@
 package SDA.Mediator;
 
+import SDA.Mediator.AmbulanceDispatcher.Ambulance;
+import SDA.Mediator.AmbulanceDispatcher.AmbulanceDispatcher;
+import SDA.Mediator.AmbulanceDispatcher.AmbulanceInterface;
+import SDA.Mediator.AmbulanceDispatcher.DispatcherInterface;
 import SDA.Mediator.TaxiDispatcher.Dispatcher;
 import SDA.Mediator.TaxiDispatcher.TaxiDispatcher;
 import SDA.Mediator.TaxiDispatcher.TaxiDriver;
@@ -21,6 +25,12 @@ public class Main{
         uber.setAvailable(true);
 
         dyspozytor.dispatchTaxi("poprosze taxi na Niebuszewo");
+
+        DispatcherInterface dyspozytornia = new AmbulanceDispatcher();
+        AmbulanceInterface karetka = new Ambulance();
+
+        dyspozytornia.addAmbulance(karetka);
+        dyspozytornia.getCall("weeooo weee oo");
 
     }
 
